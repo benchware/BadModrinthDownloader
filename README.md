@@ -4,13 +4,14 @@
 An terrible coded Modrinth downloader that can download in bulks and it's fucking coded in Powershell.
 
 ## Features
-- Bulk mods in Modrinth
+- Download mods in bulk from Modrinth
+- Download modpacks!
 - Written entirely in **PowerShell**
 - Minimal dependencies
 ## Installation
 No installation required. Just download the downloader and run it with PowerShell.
 ## How to run?
-1. Navigate to the repository and click "Code" and then click "Download ZIP"
+1. Navigate to the repository and click "Code" and then click "Download ZIP" or go to the latest release and download it.
 
 2. Write your mods you need to download in the file `mods.txt`. You don't need a whole Visual Studio IDE for this. Just copy the links of the mods you want to install into that file. **Remember: Every mod you want to download should be on its own line. No extra characters, just plain text, each on a new row.**
 3. Then open PowerShell on your machine and you need to run `set-executionpolicy remotesigned`
