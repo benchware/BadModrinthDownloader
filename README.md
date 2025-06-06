@@ -2,12 +2,13 @@
 
 # BadModrinthDownloader
 An terrible coded Modrinth downloader that can download in bulks and it's fucking coded in Powershell.
-It supports Linux, too. Have fun!
+It supports Linux, MacOS too. Have fun!
 ## Features
 - Download mods in bulk from Modrinth
 - Download modpacks!
 - Written entirely in **PowerShell**
 - Minimal dependencies
+- It works!
 ## Installation
 No installation required. Just download the downloader and run it with PowerShell.
 ## How to run?
