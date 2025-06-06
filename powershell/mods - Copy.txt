@@ -1,6 +1,0 @@
-https://modrinth.com/mod/xaeros-minimap
-https://modrinth.com/mod/xaeros-world-map
-https://modrinth.com/mod/mouse-tweaks
-https://modrinth.com/mod/yacl
-https://modrinth.com/mod/jade
-https://modrinth.com/mod/modelfix
