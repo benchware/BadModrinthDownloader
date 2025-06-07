@@ -1,14 +1,13 @@
 <img src="New Project.png" style="max-width:1000px;display:block;width:100%;border-radius:5px;margin-bottom:7px;">
 
 # BadModrinthDownloader
-An terrible coded Modrinth downloader that can download in bulks and it's fucking coded in Powershell.
-It supports Linux too. Have fun!
+An terrible coded Modrinth downloader that can download in bulks and it's fucking coded in Powershell, and just simply works on Linux.
 ## Features
 - Download mods in bulk from Modrinth
 - Download modpacks!
 - Written entirely in **PowerShell**
 - Minimal dependencies
-- It works!
+- It works on Linux and Windows! (PSA : For Linux you need to install PowerShell and download the Linux version of the script.)
 ## Installation
 No installation required. Just download the downloader and run it with PowerShell.
 ## How to run?
