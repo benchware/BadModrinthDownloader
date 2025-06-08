@@ -1,4 +1,7 @@
 <img src="New Project.png" style="max-width:1000px;display:block;width:100%;border-radius:5px;margin-bottom:7px;">
+# KNOWN ISSUES :
+Downloading mods may resulting it's NeoForge version of it
+Modpack like Adrenaline will not download
 
 # BadModrinthDownloader
 An terrible coded Modrinth downloader that can download in bulks and it's fucking coded in Powershell, and just simply works on Linux.
