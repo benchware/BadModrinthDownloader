@@ -1,1 +1,0 @@
-Insert your mod here, you can use a URL or a slug like `yacl`, And please delete this line or else it will break!
