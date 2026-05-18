@@ -1,7 +1,4 @@
 <img src="New Project.png" style="max-width:1000px;display:block;width:100%;border-radius:5px;margin-bottom:7px;">
-# KNOWN ISSUES :
-Downloading mods may resulting it's NeoForge version of it
-Modpack like Adrenaline will not download
 
 # BadModrinthDownloader
 An terrible coded Modrinth downloader that can download in bulks and it's fucking coded in Powershell, and just simply works on Linux.
@@ -11,6 +8,7 @@ An terrible coded Modrinth downloader that can download in bulks and it's fuckin
 - Written entirely in **PowerShell**
 - Minimal dependencies
 - It works on Linux and Windows! (PSA : For Linux you need to install PowerShell and download the Linux version of the script.)
+- Please use PowerShell 7 for it to work!!!!
 ## Installation
 No installation required. Just download the downloader and run it with PowerShell.
 ## How to run?
